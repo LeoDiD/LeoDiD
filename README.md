@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! 👋 I'm Leovi , a 2nd-year college student studying Information Technology. I'm passionate about full-stack development. I enjoy expanding my knowledge about web technologies.
-I'm excited to continue learning and growing in the tech field!
+I'm excited to continue learning and growing in the tech field!!
 
 
 ## 🌐 Socials:
