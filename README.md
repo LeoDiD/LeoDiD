@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 I'm Leovi Garcia , a 2nd-year college student studying Information Technology. I'm passionate about full-stack web development.
+Hi! 👋 I'm Leovi Garcia , a 2nd-year college student studying Information Technology. I'm passionate about full-stack web development..
 
 
 ## 🌐 Socials:
