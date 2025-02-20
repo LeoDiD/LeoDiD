@@ -3,9 +3,8 @@
   <h3>Aspiring Full Stack Web Developer | 2nd Year Student </h3>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    <a href="mailto:princesanguan44@gmail.com">
-      <img src="https://img.shields.io/badge/Email-princesanguan44@gmail.com-important?style=flat&logo=gmail" alt="Email" />
+    <a href="mailtoleovigarcia07@gmail.com">
+      <img src="https://img.shields.io/badge/Email-leovigarcia07@gmail.com-important?style=flat&logo=gmail" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/prince-sanguan-a78988274/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
