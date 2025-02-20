@@ -6,7 +6,7 @@
     <a href="mailtoleovigarcia07@gmail.com">
       <img src="https://img.shields.io/badge/Email-leovigarcia07@gmail.com-important?style=flat&logo=gmail" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/leovi-garcia-08683b2a1/?originalSubdomain=ph/">
+    <a href="https://www.linkedin.com/in/leovi-casipit-garcia-963b90329/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
     </a>
   </p>
