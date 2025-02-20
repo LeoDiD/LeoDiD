@@ -1,6 +1,19 @@
-# 💫 About Me:
-Hi! 👋 I'm Leovi Garcia , a 2nd-year college student studying Information Technology. I'm passionate about full-stack web development..
+<div align="center">
+  <h1>👋 Hello, I'm Leovi Garcia</h1>
+  <h3>Aspiring Full Stack Web Developer | 2nd Year Student </h3>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="mailto:princesanguan44@gmail.com">
+      <img src="https://img.shields.io/badge/Email-princesanguan44@gmail.com-important?style=flat&logo=gmail" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/prince-sanguan-a78988274/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+ideas+into+digital+reality;Clean+code+advocate;Continuous+learner" alt="Typing SVG" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/a) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a) 
