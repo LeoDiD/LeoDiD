@@ -38,8 +38,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeoDiD&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDiD&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://activity-graph.herokuapp.com/graph?username=LeoDiD&theme=react-dark)
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
@@ -47,6 +46,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=LeoDiD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://activity-graph.herokuapp.com/graph?username=LeoDiD&theme=react-dark)
+
 
 
