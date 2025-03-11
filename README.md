@@ -38,9 +38,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeoDiD&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDiD&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://activity-graph.herokuapp.com/graph?username=LeoDiD&theme=react-dark)
+[![My Favorite Song](https://img.shields.io/badge/Spotify-Play_The_Way_Life_Goes-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K)
 
-![Spotify](https://novatorem.vercel.app/api/spotify)
 
 
 ---
