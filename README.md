@@ -25,6 +25,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+### **Tools**
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LeoDiD&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeoDiD&theme=midnight-purple&hide_border=false)<br/>
