@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hello, I'm Leovi  Garcia</h1>
+  <h1>👋 Hello, I'm Leovi   Garcia</h1>
   <h3>Aspiring Full Stack Web Developer | 2nd Year Student </h3>
   
   <p align="center">
