@@ -11,7 +11,8 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+ideas+into+digital+reality;Clean+code+advocate;Continuous+learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;Passionate+about+coding;Building+awesome+web" alt="Typing SVG" />
+
 </div>
 
 ## 🛠️ Tech Stack
