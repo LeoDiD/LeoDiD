@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Leovi  Garcia  </h1>
-  <h3> Incoming 3rd Year Student </h3>
+  <h3> Incoming 3rd Year Student  </h3>
   
   <p align="center">
     <a href="mailtoleovigarcia07@gmail.com">
