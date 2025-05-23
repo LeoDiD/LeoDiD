@@ -8,7 +8,7 @@ I'm currently exploring and working on various web and mobile development projec
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=figma,firebase,flutter,tensorflow,dart,ts,js,nextjs,nodejs,express,androidstudio,supabase,arduino,html,css,mysql,mongodb,react,tailwind,bootstrap,php,laravel,py,vscode,git,postman&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,js,nodejs,express,html,css,mysql,mongodb,react,tailwind,php,laravel,vscode,git,postman&perline=8)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LeoDiD&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
