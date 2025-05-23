@@ -11,8 +11,8 @@ I'm currently exploring and working on various web and mobile development projec
 [![My Skills](https://skillicons.dev/icons?i=figma,js,nodejs,express,html,css,mysql,mongodb,react,tailwind,php,laravel,vscode,git,postman&perline=8)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-[](https://github-readme-streak-stats.herokuapp.com/?user=LeoDiD&theme=midnight-purple&hide_border=false)
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDiD&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=LeoDiD&theme=midnight-purple&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDiD&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
