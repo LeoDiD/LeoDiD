@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm **Leovi Garcia**, an incoming 3rd-year student passionate about full-stack development. I'm an aspiring web developer, eager to learn and grow in the tech world!
+I'm **Leovi Garcia**, an 3rd-year student passionate about full-stack development. I'm an aspiring web developer, eager to learn and grow in the tech world!
 
 ## About Me
 
