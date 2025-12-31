@@ -10,9 +10,14 @@ I'm currently exploring and working on various web and mobile development projec
 
 [![My Skills](https://skillicons.dev/icons?i=figma,js,nodejs,express,html,css,mysql,mongodb,react,tailwind,php,laravel,vscode,git,postman&perline=8)](https://skillicons.dev)
 
+# 📊 GitHub Stats
+
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=LeoDiD&show_icons=true&theme=midnight-purple)
+
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeoDiD&layout=compact&theme=midnight-purple)
+
 ![](https://streak-stats.demolab.com?user=LeoDiD&theme=midnight-purple)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDiD&theme=midnight-purple&layout=compact&count_private=true)
 
 
 ---
