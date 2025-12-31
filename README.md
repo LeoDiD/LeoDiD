@@ -16,7 +16,8 @@ I'm currently exploring and working on various web and mobile development projec
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeoDiD&layout=compact&theme=midnight-purple)
 
-![](https://streak-stats.demolab.com?user=LeoDiD&theme=midnight-purple)
+![](https://streak-stats.demolab.com?user=LeoDiD&theme=midnight-purple&format=png&cache_seconds=86400)
+
 
 
 
